@@ -7,6 +7,10 @@ verify_ssl = true
 
 [packages]
 django = "==2.1"
+pylint = "*"
+pylint-django = "*"
+django-tastypie = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.6"
