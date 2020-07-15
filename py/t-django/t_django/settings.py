@@ -25,7 +25,9 @@ SECRET_KEY = 'v=f-+3(f-uwdxvf*13de#$nf@k=1ydt0kgr3()dw&laka5j#^x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'benefique-fromage-35175.herokuapp.com',
+]
 
 
 # Application definition
